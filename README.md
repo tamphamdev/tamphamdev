@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Tam Pham</h1>
+<h1 align="left">Hi 👋, I'm Tam Pham (Liam)</h1>
 <p align="left">A passionate frontend developer from Viet Nam.</p>
 <p align="left"> I love writing code, and I would love to deliver my code to these meaningful projects out there!</p>
 
