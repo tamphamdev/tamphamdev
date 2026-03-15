@@ -2,7 +2,6 @@
 <p align="left">A passionate frontend developer from Viet Nam.</p>
 <p align="left"> I love writing code, and I would love to deliver my code to these meaningful projects out there!</p>
 
-- 🌱 I’m currently learning **Redux, TypeScript, Testing**
 
 - 👨‍💻 All of my projects are available at [https://tamphamdev.com](https://tamphamdev.com)
 
