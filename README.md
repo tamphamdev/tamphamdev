@@ -1,14 +1,41 @@
 <h1 align="left">Hi 👋, I'm Tam Pham (Liam)</h1>
-<p align="left">A passionate frontend developer from Viet Nam.</p>
-<p align="left"> I love writing code, and I would love to deliver my code to these meaningful projects out there!</p>
+<p align="left">
+Senior Frontend Engineer with 6+ years of experience building scalable, high-performance web applications.
+</p>
+<p align="left">
+I specialize in crafting clean, maintainable, and user-focused interfaces using modern JavaScript frameworks. 
+I’m passionate about delivering impactful digital products, collaborating with cross-functional teams, 
+and continuously improving code quality and development processes.
+</p>
 
+- 👨‍💻 Portfolio: https://tampham.dev  
+- 💼 Open to senior-level opportunities, freelance & remote roles  
+- 💬 Ask me about frontend architecture, performance optimization, or UI/UX implementation  
+- 📫 Contact me:
+  <a href="mailto:tampham.dev@gmail.com" target="_blank">Email</a> •
+  <a href="https://www.linkedin.com/in/tampham-dev/" target="_blank">LinkedIn</a> •
+  <a href="https://github.com/tamphamdev" target="_blank">GitHub</a>
 
-- 👨‍💻 All of my projects are available at [https://tamphamdev.com](https://tamphamdev.com)
+---
 
-- 💬 Ask me about **a job offer or a freelance/remote work**
+### 🛠 Technical Expertise
 
-- 📫 How to reach me: <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/tampham-dev/" height="30" width="20" /> <a href="mailto:tampham.dev@gmail.com" target="_blank"><img height="20" src="https://www.google.com/gmail/about/static/images/logo-gmail.png"></a> <a href="https://www.linkedin.com/in/tampham-dev/" target="_blank"><img height="20" src="https://static.licdn.com/sc/h/akt4ae504epesldzj74dzred8"></a> <a href="https://tamphamdev.com" target="_blank"><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1200px-Octicons-mark-github.svg.png"></a>
+**Frontend:**  
+React.js, Next.js, Vue.js, Nuxt.js, TypeScript, JavaScript (ES6+), HTML5, CSS3, Sass, TailwindCSS, Vuetify  
 
-- I'm comfortable working with:  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="20" height="20"/>  <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="20" height="20"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/>  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="20" height="20"/>  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="20" height="20"/>  <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="20" height="20"/>  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="20" height="20"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="20" height="20"/>  <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="20" height="20"/>  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="20" height="20"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="20" height="20"/>  <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="20" height="20"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="20" height="20"/>
+**Tools & Workflow:**  
+Git, Webpack, AWS, Postman, Figma, Sketch, Chart.js  
 
+**Core Strengths:**  
+- Scalable Frontend Architecture  
+- Performance Optimization  
+- Responsive & Cross-browser Development  
+- Design System Implementation  
+- Clean Code & Best Practices  
+- Agile/Scrum Collaboration  
 
+---
+
+<p align="left">
+I’m committed to building performant, accessible, and user-centric applications that drive real business value.
+</p>
